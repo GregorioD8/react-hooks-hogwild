@@ -73,6 +73,9 @@ ul {
   font-size: .75em;
 }
 
+.cards {
+  position: center
+}
 
 .indexWrapper {
   margin: auto;
@@ -139,6 +142,7 @@ ul {
   padding: 1%;
   clear: both;
 }
+
 
 
 @keyframes App-logo-spin {
